@@ -1,24 +1,14 @@
 {
   "format": "page",
-  "id": "settings",
-  "label": "settings",
-  "repeatable": false,
-  "status": true,
+  "id": "homepage",
   "json": {
     "Main": {
-      "title": {
-        "type": "Text",
-        "config": {
-          "label": "Title",
-          "placeholder": ""
-        }
-      },
       "slices": {
-        "type": "Slices",
-        "fieldset": "Slice Zone",
         "config": {
           "choices": {}
-        }
+        },
+        "fieldset": "Slice Zone",
+        "type": "Slices"
       }
     },
     "SEO & Metadata": {
@@ -48,5 +38,8 @@
         "type": "Text"
       }
     }
-  }
+  },
+  "label": "HomePage",
+  "repeatable": false,
+  "status": true
 }
