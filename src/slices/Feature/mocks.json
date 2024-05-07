@@ -1,0 +1,64 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Robust features",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icone",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "bargraph",
+							"type": "Select"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Chief"
+									}
+								}
+							]
+						}
+					],
+					[
+						"discription",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Sint aliquip magna esse deserunt duis et dolor culpa cillum. Pariatur quis culpa proident quis mollit fugiat velit excepteur amet in qui adipisicing mollit eu aliquip. Magna sunt minim duis ea elit et."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
